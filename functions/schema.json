@@ -1,0 +1,30 @@
+{
+	"station": {
+		"user_token": "jkahj1k3240134l",
+		"name_station_th": "หลวงพระบาง",
+		"name_station_en": "loaungprabang",
+		"status_station_th": "มีความเสี่ยงเกิดดินถล่มสูง",
+		"status_station_en": "HIGH RISK LANDSLIDE",
+		"status_station_code": "3",
+		"latitude": "514.123",
+		"longitude": "112.1151434",
+		"rainlist": [
+			{
+				"currentRain": "0.0",
+				"currentDate": "2017-12-31"
+			},
+			{
+				"currentRain": "0.1",
+				"currentDate": "2017-12-30"
+			},
+			{
+				"currentRain": "0.2",
+				"currentDate": "2017-12-29"
+			},
+			{
+				"currentRain": "0.3",
+				"currentDate": "2017-12-28"
+			}
+		]
+	}
+}
